@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_03_09_2025\\bhd_bttl\\views\\shared\\components\\products\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHD_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\components\\products\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Models\\Product.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Models\\Product.cs",
+              "RelativeToolTip": "BHD_BTTL\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:45:26.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:35:15.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default_Layout.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:17:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:14:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductTypes.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:14:26.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BHD_BTTL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:52:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_03_09_2025\\BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:16:27.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

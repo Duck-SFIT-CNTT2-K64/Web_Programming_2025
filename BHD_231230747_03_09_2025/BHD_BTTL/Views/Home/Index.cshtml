@@ -1,0 +1,77 @@
+﻿@model IEnumerable<BHD_BTTL.Models.Product>
+@{
+    ViewData["Title"] = "Cửa hàng gia dụng";
+}
+
+<main class="row" style="margin-top: 20px">
+    <aside style="width: 25%">
+        <partial name="ProductTypes" />
+    </aside>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .product-section {
+            padding: 0 20px;
+            margin-bottom: 20px
+        }
+
+        .product-section > p {
+            width: 100%;
+            background: #007bff;
+            color: white;
+            padding: 12px;
+            margin: 0 0 20px 0;
+            border-radius: 8px;
+        }
+
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .product-card {
+            background: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 5px;
+            text-align: center;
+        }
+
+        .product-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .product-card h3 {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+
+    <section style="width: 75%">
+        <div>
+            <div class="product-section">
+                <p>Sản phẩm nổi bật</p>
+
+                <div class="product-grid">
+                    @foreach (var p in Model)
+                    {
+                        <div class="product-card">
+                            <img src="@p.Image" alt="">
+                            <h3>@p.Name</h3>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        @await Component.InvokeAsync("Products");
+    </section>
+</main>
