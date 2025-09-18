@@ -1,0 +1,14 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "admin-lte@3.2.0",
+      "destination": "wwwroot/lib/admin-lte/"
+    },
+    {
+      "library": "bootstrap@4.6.2",
+      "destination": "wwwroot/lib/bootstrap-v4/"
+    }
+  ]
+}

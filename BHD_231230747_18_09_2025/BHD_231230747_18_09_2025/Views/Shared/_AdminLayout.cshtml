@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LTW_Day04Lab_TH</title>
+    <link rel="stylesheet" href="~/lib/bootstrap-v4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/admin-lte/css/adminlte.min.css">
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/LTW_Day04Lab_TH.styles.css" asp-append-version="true" />
+
+    <style>
+        input:focus,
+        button:focus,
+        .form-control:focus {
+            box-shadow: none !important;
+        }
+    </style>
+</head>
+<body class="sidebar-mini" style="height: auto; margin-bottom: 0">
+
+    <div class="wrapper">
+        <partial name="Navbar" />
+
+        <partial name="Sidebar" model="@ViewData["Title"]" />
+
+        <div class="content-wrapper">
+            @RenderBody()
+        </div>
+
+
+        <partial name="Footer" />
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/admin-lte/js/adminlte.min.js"></script>
+    <script src="~/lib/font-awesome/js/all.min.css"></script>
+    <script src="~/lib/bootstrap-v4/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
