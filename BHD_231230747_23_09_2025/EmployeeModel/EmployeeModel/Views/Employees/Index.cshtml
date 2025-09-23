@@ -1,0 +1,43 @@
+﻿@model IEnumerable<EmployeeModel.Models.Employee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Thêm nhân viên</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Họ tên</th>
+            <th>Giới tính</th>
+            <th>Điện thoại</th>
+            <th>Email</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.fullName</td>
+                <td>@item.Gender</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+                <td>@item.Salary</td>
+                <td>@item.Status</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

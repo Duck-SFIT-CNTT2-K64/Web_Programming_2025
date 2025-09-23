@@ -1,0 +1,32 @@
+﻿@model EmployeeModel.Models.Employee
+
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Họ tên</dt>
+        <dd class="col-sm-10">@Model.fullName</dd>
+
+        <dt class="col-sm-2">Giới tính</dt>
+        <dd class="col-sm-10">@Model.Gender</dd>
+
+        <dt class="col-sm-2">Điện thoại</dt>
+        <dd class="col-sm-10">@Model.Phone</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+
+        <dt class="col-sm-2">Lương</dt>
+        <dd class="col-sm-10">@Model.Salary</dd>
+
+        <dt class="col-sm-2">Trạng thái</dt>
+        <dd class="col-sm-10">@Model.Status</dd>
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Sửa</a>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
