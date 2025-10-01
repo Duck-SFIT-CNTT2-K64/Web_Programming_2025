@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Category>
+<h2>Danh mục</h2>
+<p><a asp-action="Create" class="btn btn-primary">Them danh muc</a></p>
+<ul>
+	@foreach (var c in Model)
+	{
+		<li>@c.Name</li>
+	}
+</ul>

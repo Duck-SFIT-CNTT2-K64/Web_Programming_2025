@@ -1,0 +1,16 @@
+﻿@model BHD_231230747_01_10_2025.Models.Product
+@{
+    ViewData["Title"] = "Them san pham";
+}
+
+<h2>@ViewData["Title"]</h2>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    @await Html.PartialAsync("_FormPartial", Model)
+    <button type="submit" class="btn btn-primary">Luu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lai</a>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

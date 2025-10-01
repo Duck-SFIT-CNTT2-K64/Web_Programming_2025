@@ -1,0 +1,14 @@
+﻿@model BHD_231230747_01_10_2025.Models.Product
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h5>Ban co chac chan muon xoa san pham <strong>@Model.Name</strong> ?</h5>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xoa</button>
+    <a asp-action="Index" class="btn btn-secondary">Huy</a>
+</form>

@@ -1,0 +1,30 @@
+﻿@model BHD_231230747_01_10_2025.Models.Product
+@{
+    ViewData["Title"] = "Chi tiet san pham";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-4">
+        @if (!string.IsNullOrEmpty(Model.Image))
+        {
+            <img src="@Model.Image" class="img-fluid" />
+        }
+    </div>
+    <div class="col-md-8">
+        <dl class="row">
+            <dt class="col-sm-3">Ten</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+            <dt class="col-sm-3">Danh muc</dt>
+            <dd class="col-sm-9">@Model.Category?.Name</dd>
+            <dt class="col-sm-3">Gia</dt>
+            <dd class="col-sm-9">@Model.Price:N0</dd>
+            <dt class="col-sm-3">KM</dt>
+            <dd class="col-sm-9">@Model.SalePrice:N0</dd>
+            <dt class="col-sm-3">Mo ta</dt>
+            <dd class="col-sm-9">@Model.Description</dd>
+        </dl>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Sua</a>
+        <a asp-action="Index" class="btn btn-secondary">Quay lai</a>
+    </div>
+</div>

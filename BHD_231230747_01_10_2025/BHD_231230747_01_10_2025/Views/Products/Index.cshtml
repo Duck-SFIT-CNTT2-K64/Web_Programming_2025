@@ -1,0 +1,49 @@
+﻿@model IEnumerable<BHD_231230747_01_10_2025.Models.Product>
+@{
+    ViewData["Title"] = "Danh sach san pham";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Them moi</a>
+    @if (TempData["ok"] != null)
+    {
+        <span class="text-success ms-3">@TempData["ok"]</span>
+    }
+</p>
+
+<table class="table table-bordered align-middle">
+    <thead>
+        <tr>
+            <th>Anh</th>
+            <th>Ten</th>
+            <th>Danh muc</th>
+            <th>Gia</th>
+            <th>KM</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td style="width:110px">
+                    @if (!string.IsNullOrEmpty(p.Image))
+                    {
+                        <img src="@p.Image" style="height:80px" />
+                    }
+                </td>
+                <td>@p.Name</td>
+                <td>@p.Category?.Name</td>
+                <td>@p.Price</td>
+                <td>@p.SalePrice</td>
+                <td style="width:190px">
+                    <a asp-action="Details" asp-route-id="@p.Id" class="btn btn-sm btn-info">Chi tiet</a>
+                    <a asp-action="Edit" asp-route-id="@p.Id" class="btn btn-sm btn-warning">Sua</a>
+                    <a asp-action="Delete" asp-route-id="@p.Id" class="btn btn-sm btn-danger">Xoa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

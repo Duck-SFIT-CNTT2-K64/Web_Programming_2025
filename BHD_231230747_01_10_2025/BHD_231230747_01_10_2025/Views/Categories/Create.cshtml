@@ -1,0 +1,15 @@
+﻿@model Category
+<h2>Them danh muc</h2>
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <div class="mb-3">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <button class="btn btn-primary">Luu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lai</a>
+</form>
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

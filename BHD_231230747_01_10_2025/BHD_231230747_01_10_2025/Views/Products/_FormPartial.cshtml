@@ -1,0 +1,51 @@
+﻿@model BHD_231230747_01_10_2025.Models.Product
+@{
+    var isEdit = Model?.Id > 0;
+}
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<div class="mb-3">
+    <label asp-for="Name" class="form-label"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+    <label asp-for="CategoryId" class="form-label"></label>
+    <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+        <option value="">-- Chọn danh mục --</option>
+    </select>
+    <span asp-validation-for="CategoryId" class="text-danger"></span>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="SalePrice" class="form-label"></label>
+        <input asp-for="SalePrice" class="form-control" />
+        <span asp-validation-for="SalePrice" class="text-danger"></span>
+    </div>
+</div>
+
+<div class="mb-3">
+    <label asp-for="Description" class="form-label"></label>
+    <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+    <span asp-validation-for="Description" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+    <label class="form-label">Anh san pham</label>
+    <input type="file" name="ImageFile" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Image")</span>
+    @if (isEdit && !string.IsNullOrEmpty(Model.Image))
+    {
+        <div class="mt-2">
+            <img src="@Model.Image" style="height:100px;border:1px solid #ddd" />
+        </div>
+    }
+</div>

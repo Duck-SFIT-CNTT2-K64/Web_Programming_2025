@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\models\\notcontainsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\models\\notcontainsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\products\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\products\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|d:\\fifth_semester\\web_programming_2024_student\\web_programming_2025\\bhd\\bhd_231230747_01_10_2025\\bhd_231230747_01_10_2025\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8691171B-2B04-4E89-8247-DDFD0D2F0FC9}|BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025.csproj|solutionrelative:bhd_231230747_01_10_2025\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:09:45.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:56:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Models\\Category.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\Category.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:15:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotContainsAttribute.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\NotContainsAttribute.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Models\\NotContainsAttribute.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\NotContainsAttribute.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Models\\NotContainsAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:18:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Models\\Product.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Models\\Product.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:24:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:58:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:12:01.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Program.cs",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Program.cs",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Program.cs",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:06:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:05:10.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:09:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:08:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:06:27.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:04:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:03:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_FormPartial.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\_FormPartial.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\Products\\_FormPartial.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\Products\\_FormPartial.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\Products\\_FormPartial.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:02:16.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BHD_231230747_01_10_2025\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\fifth_semester\\Web_Programming_2024_Student\\Web_Programming_2025\\BHD\\BHD_231230747_01_10_2025\\BHD_231230747_01_10_2025\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BHD_231230747_01_10_2025\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T01:12:53.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
