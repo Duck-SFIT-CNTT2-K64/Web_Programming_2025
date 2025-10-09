@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LTW_Day07_TH
+build_property.RootNamespace = LTW_Day07_TH
+build_property.ProjectDir = E:\OneDrive\Desktop\DH\K64-Ki5-lap-trinh-web\LTW_Day07Lab\LTW_Day07_TH\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\OneDrive\Desktop\DH\K64-Ki5-lap-trinh-web\LTW_Day07Lab\LTW_Day07_TH
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/CtHoaDons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3RIb2FEb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/CtHoaDons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3RIb2FEb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/CtHoaDons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3RIb2FEb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/CtHoaDons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3RIb2FEb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/CtHoaDons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3RIb2FEb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/HoaDons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/HoaDons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/HoaDons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/HoaDons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/HoaDons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/KhachHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/KhachHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/KhachHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/KhachHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/KhachHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/LoaiSanPhams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/LoaiSanPhams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/LoaiSanPhams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/LoaiSanPhams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/LoaiSanPhams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVNhblBoYW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/QuanTris/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/QuanTris/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/QuanTris/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/QuanTris/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/QuanTris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/SanPhams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/OneDrive/Desktop/DH/K64-Ki5-lap-trinh-web/LTW_Day07Lab/LTW_Day07_TH/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1vnwjvlcl

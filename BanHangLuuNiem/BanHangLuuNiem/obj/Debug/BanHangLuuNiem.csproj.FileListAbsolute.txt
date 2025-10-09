@@ -1,0 +1,15 @@
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.exe.config
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.exe
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\bin\Debug\BanHangLuuNiem.pdb
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.AssemblyReference.cache
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.HoaDon.frmHDBan.resources
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.Properties.Resources.resources
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.GenerateResource.cache
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.csproj.CoreCompileInputs.cache
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.exe
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.pdb
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.exe.config
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmNhanVien.resources
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmSanPham.resources
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.Form1.resources
+D:\fifth_semester\Web_Programming_2024_Student\Web_Programming_2025\BHD\BanHangLuuNiem\BanHangLuuNiem\obj\Debug\BanHangLuuNiem.DanhMuc.frmChatLieu.resources
